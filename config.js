@@ -10,7 +10,7 @@ global.sig = process.env.LINK_IG
 global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.LINK_GROUP
 global.ownernumber = process.env.NOWNER
-global.owner = [
+global.owner = ['6285876810596']
   ['0'],
   ['0'],
   [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
